@@ -32,9 +32,7 @@ public class Main {
             String asciiArt = FigletFont.convertOneLine("RossiGo");
             System.out.println(asciiArt);
         } catch (Exception e) {
-            System.out.println("=========================================");
-            System.out.println("           *** ROSSIGO ***               ");
-            System.out.println("=========================================");
+            System.out.println("            ROSSIGO                ");
         }
         System.out.println("Sistema di Sharing Micromobilità - Backend Java 25 & SQLite");
         System.out.println("-----------------------------------------------------------\n");
