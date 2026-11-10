@@ -35,3 +35,5 @@ Nel programma sono stati simulati i seguenti scenari principali:
 4. **Lettura e stampa dati:** Recupero delle informazioni dal database per mostrare lo stato aggiornato a schermo.
 
 ---
+  
+
