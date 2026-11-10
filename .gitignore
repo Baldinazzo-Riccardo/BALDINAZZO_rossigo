@@ -1,0 +1,22 @@
+# Build artifacts
+target/
+*.class
+
+# SQLite Database
+rossigo.db
+rossigo.db-journal
+rossigo.db-wal
+rossigo.db-shm
+*.db
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
