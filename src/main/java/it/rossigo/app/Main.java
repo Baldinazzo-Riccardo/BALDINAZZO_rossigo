@@ -34,7 +34,7 @@ public class Main {
         } catch (Exception e) {
             System.out.println("            ROSSIGO                ");
         }
-        System.out.println("Sistema di Sharing Micromobilità - Backend Java 25 & SQLite");
+        System.out.println("Sistema di Sharing Micromobilità");
         System.out.println("-----------------------------------------------------------\n");
     }
 
