@@ -132,6 +132,7 @@ public class FlottaService {
         return costoStimato;
     }
 
+    //ottenimento dati da db
     public Optional<Veicolo> getVeicolo(String codice) throws ErroreDatabaseException {
         return db.trovaVeicoloPerCodice(codice);
     }
